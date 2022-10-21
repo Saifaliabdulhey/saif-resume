@@ -144,10 +144,10 @@ function Projects() {
                   <img class="card__thumb" src="https://saifaliabdulhey.github.io/protfolio-edited/assets/home.jpg" alt="" />
                   <div class="card__header-text">
                     <h3 class="card__title">Music App</h3>
-                    <span class="card__status">Protfolio by Saifaliabdulhey87</span>
+                    <span class="card__status">Developed by Saifaliabdulhey87</span>
                   </div>
                 </div>
-                <p class="card__description">Music App Using JS</p>
+                <p class="card__description">Portfolio App Using JS</p>
               </div>
             </a>
           </li>
