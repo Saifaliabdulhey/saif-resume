@@ -143,7 +143,7 @@ function Projects() {
                   <svg class="card__arc" xmlns="http://www.w3.org/2000/svg"><path /></svg>
                   <img class="card__thumb" src="https://saifaliabdulhey.github.io/protfolio-edited/assets/home.jpg" alt="" />
                   <div class="card__header-text">
-                    <h3 class="card__title">Music App</h3>
+                    <h3 class="card__title">Portfolio App</h3>
                     <span class="card__status">Developed by Saifaliabdulhey87</span>
                   </div>
                 </div>
@@ -159,7 +159,7 @@ function Projects() {
                   <svg class="card__arc" xmlns="http://www.w3.org/2000/svg"><path /></svg>
                   <img class="card__thumb" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png" alt="" />
                   <div class="card__header-text">
-                    <h3 class="card__title">Music App</h3>
+                    <h3 class="card__title">Moon Animation App</h3>
                     <span class="card__status">Moon Animation by Saifaliabdulhey87</span>
                   </div>
                 </div>
@@ -167,6 +167,24 @@ function Projects() {
               </div>
             </a>
           </li>
+
+          <li>
+            <a href="https://precious-bonbon-ffe159.netlify.app" class="card">
+              <img src="https://m.media-amazon.com/images/G/01/gc/designs/livepreview/a_generic_white_10_us_noto_email_v2016_us-main._CB627448186_.png" class="card__image" alt="" />
+              <div class="card__overlay">
+                <div class="card__header">
+                  <svg class="card__arc" xmlns="http://www.w3.org/2000/svg"><path /></svg>
+                  <img class="card__thumb" src="https://m.media-amazon.com/images/G/01/gc/designs/livepreview/a_generic_white_10_us_noto_email_v2016_us-main._CB627448186_.png" alt="" />
+                  <div class="card__header-text">
+                    <h3 class="card__title">Amazon clone App</h3>
+                    <span class="card__status">Amazon app Designed by Saifaliabdulhey87</span>
+                  </div>
+                </div>
+                <p class="card__description">Amazon clone App Using React</p>
+              </div>
+            </a>
+          </li>
+
           <li>
             <a href="https://saifaliabdulhey.github.io/Blog" class="card">
               <img src="https://i.ytimg.com/vi/crzR4JucSBM/maxresdefault.jpg" class="card__image" alt="" />
