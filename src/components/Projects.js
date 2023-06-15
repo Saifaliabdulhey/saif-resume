@@ -72,7 +72,7 @@ function Projects() {
             </a>
           </li>
           <li>
-            <a href="" class="card">
+            <a href="https://saifaliabdulhey.github.io/yassen/" class="card">
               <img src="https://saifaliabdulhey.github.io/yassen/static/media/logo.de77b58e150685008081.png" class="card__image" alt="" />
               <div class="card__overlay">
                 <div class="card__header">
