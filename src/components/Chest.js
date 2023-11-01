@@ -15,7 +15,7 @@ function Chest() {
                     <div>
                     <button className="button">Hire me</button>
                     <button className="btn-cv"><a href={pdf} target="_blank">Download CV</a></button>
-                    <button className="btn-cv"><a src="https://saifaliabdulhey.github.io/protfolio-edited/index.html" target="_blank">My Sub-Portfolio ‣</a></button>
+                    <button className="btn-cv"><a href="https://saifaliabdulhey.github.io/protfolio-edited/index.html" target="_blank">My Sub-Portfolio ‣</a></button>
                     </div>
                 </div>
                 <div>
