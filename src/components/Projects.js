@@ -22,6 +22,23 @@ function Projects() {
       </div>
       <div>
         <ul class="cards">
+                   <li>
+            <a href="https://www.almasfordecoration.website/" target="_blank" class="card">
+              <img src="https://www.almasfordecoration.website/assets/images/almas.png" class="card__image" alt="" />
+              <div class="card__overlay">
+                <div class="card__header">
+                  <svg class="card__arc" xmlns="http://www.w3.org/2000/svg"><path /></svg>
+                  <img class="card__thumb" src="https://www.almasfordecoration.website/assets/images/almas.png" alt="" />
+                  <div class="card__header-text">
+                    <h3 class="card__title">Decoration Website</h3>
+                    <span class="card__tagline"></span>
+                    <span class="card__status">Developed by Saifaliabdulhey87</span>
+                  </div>
+                </div>
+                <p class="card__description">It EPcode website to order a website for your company</p>
+              </div>
+            </a>
+          </li>
           <li>
             <a href="https://www.naruto.center/index.php" target="_blank" class="card">
               <img src="https://www.naruto.center/assets/uploads/logo.png" class="card__image" alt="" />
@@ -71,6 +88,7 @@ function Projects() {
               </div>
             </a>
           </li>
+                  
           <li>
             <a href="https://saifaliabdulhey.github.io/yassen/" target="_blank" class="card">
               <img src="https://saifaliabdulhey.github.io/yassen/static/media/logo.de77b58e150685008081.png" class="card__image" alt="" />
