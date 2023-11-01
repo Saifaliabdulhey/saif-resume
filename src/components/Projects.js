@@ -23,7 +23,7 @@ function Projects() {
       <div>
         <ul class="cards">
           <li>
-            <a href="https://www.naruto.center/index.php" class="card">
+            <a href="https://www.naruto.center/index.php" target="_blank" class="card">
               <img src="https://www.naruto.center/assets/uploads/logo.png" class="card__image" alt="" />
               <div class="card__overlay">
                 <div class="card__header">
@@ -39,7 +39,7 @@ function Projects() {
             </a>
           </li>
           <li>
-            <a href="https://www.copcart.website/index.php" class="card">
+            <a href="https://www.copcart.website/index.php" target="_blank" class="card">
               <img src="https://www.expressandstar.com/resizer/5OW4gIbt_SDki0JPxo0oaam4cEI=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/IKOPWTNDKJF4XJ3W5PKJYSGBXQ.jpg" class="card__image" alt="" />
               <div class="card__overlay">
                 <div class="card__header">
@@ -55,7 +55,7 @@ function Projects() {
             </a>
           </li>
           <li>
-            <a href="https://saifaliabdulhey.github.io/EPcode/responsive-pricing-card-main/index.html" class="card">
+            <a href="https://saifaliabdulhey.github.io/EPcode/responsive-pricing-card-main/index.html" target="_blank" class="card">
               <img src={itepcode} class="card__image" alt="" />
               <div class="card__overlay">
                 <div class="card__header">
@@ -72,7 +72,7 @@ function Projects() {
             </a>
           </li>
           <li>
-            <a href="https://saifaliabdulhey.github.io/yassen/" class="card">
+            <a href="https://saifaliabdulhey.github.io/yassen/" target="_blank" class="card">
               <img src="https://saifaliabdulhey.github.io/yassen/static/media/logo.de77b58e150685008081.png" class="card__image" alt="" />
               <div class="card__overlay">
                 <div class="card__header">
@@ -88,7 +88,7 @@ function Projects() {
             </a>
           </li>
           <li>
-            <a href="https://saifaliabdulhey.github.io/editor/script.html" class="card">
+            <a href="https://saifaliabdulhey.github.io/editor/script.html" target="_blank" class="card">
               <img src="https://saifaliabdulhey.github.io/editor/photo.jpg" class="card__image" alt="" />
               <div class="card__overlay">
                 <div class="card__header">
@@ -104,7 +104,7 @@ function Projects() {
             </a>
           </li>
           <li>
-            <a href="https://react-deploy-test-appp.herokuapp.com/home" class="card">
+            <a href="https://react-deploy-test-appp.herokuapp.com/home" target="_blank" class="card">
               <img src="https://assets.website-files.com/5e723e8d49ce3144268de3e7/5ea1de1a2fca7b663227560a_Expensify.jpg" class="card__image" alt="" />
               <div class="card__overlay">
                 <div class="card__header">
@@ -120,7 +120,7 @@ function Projects() {
             </a>
           </li>
           <li>
-            <a href="https://saifaliabdulhey.github.io/lastchance/player.html" class="card">
+            <a href="https://saifaliabdulhey.github.io/lastchance/player.html" target="_blank" class="card">
               <img src="https://saifaliabdulhey.github.io/lastchance/image/logo.jpg" class="card__image" alt="" />
               <div class="card__overlay">
                 <div class="card__header">
@@ -136,7 +136,7 @@ function Projects() {
             </a>
           </li>
           <li>
-            <a href="https://saifaliabdulhey.github.io/protfolio-edited/index.html" class="card">
+            <a href="https://saifaliabdulhey.github.io/protfolio-edited/index.html" target="_blank" class="card">
               <img src="https://saifaliabdulhey.github.io/protfolio-edited/assets/home.jpg" class="card__image" alt="" />
               <div class="card__overlay">
                 <div class="card__header">
@@ -152,7 +152,7 @@ function Projects() {
             </a>
           </li>
           <li>
-            <a href="https://saifaliabdulhey.github.io/moon/index.html" class="card">
+            <a href="https://saifaliabdulhey.github.io/moon/index.html" target="_blank" class="card">
               <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png" class="card__image" alt="" />
               <div class="card__overlay">
                 <div class="card__header">
@@ -169,7 +169,7 @@ function Projects() {
           </li>
 
           <li>
-            <a href="https://precious-bonbon-ffe159.netlify.app" class="card">
+            <a href="https://precious-bonbon-ffe159.netlify.app" target="_blank" class="card">
               <img src="https://m.media-amazon.com/images/G/01/gc/designs/livepreview/a_generic_white_10_us_noto_email_v2016_us-main._CB627448186_.png" class="card__image" alt="" />
               <div class="card__overlay">
                 <div class="card__header">
@@ -186,7 +186,7 @@ function Projects() {
           </li>
 
           <li>
-            <a href="https://saifaliabdulhey.github.io/Blog" class="card">
+            <a href="https://saifaliabdulhey.github.io/Blog" target="_blank" class="card">
               <img src="https://i.ytimg.com/vi/crzR4JucSBM/maxresdefault.jpg" class="card__image" alt="" />
               <div class="card__overlay">
                 <div class="card__header">
