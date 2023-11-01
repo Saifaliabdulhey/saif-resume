@@ -13,8 +13,8 @@ function Chest() {
                     <p>My name is Saif Ali I am a web developer I've been coding for more than 3 years I am an expert in React, JavaScript, CSS, and HTML
                     and more... </p>
                     <div>
-                    <button className="button">Hire me</button>
-                    <button className="btn-cv"><a href={pdf} >Download CV</a></button>
+                    <button className="button" href="https://saifaliabdulhey.github.io/protfolio-edited/services.html">My Sub-Portfolio ‣</button>
+                    <button className="btn-cv" target="_blank"><a href={pdf} >Download CV</a></button>
                     </div>
                 </div>
                 <div>
